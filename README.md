@@ -6,7 +6,7 @@ This package provides tools for emotion detection using transformer-based models
 
 To install the package, you can use pip:
 
-`pip install isgc`
+`pip install emotion_analysis`
 
 ## Usage
 
